@@ -1,5 +1,6 @@
 # Default ignored files
 __pycache__/
 .idea/
+chrome_profile/
 *.pyc
 *.log
